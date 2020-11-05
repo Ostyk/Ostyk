@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭Recent Graduate
 - Machine Learning Specialist @ DTiQ
 - PyTorch fan
 <!--
