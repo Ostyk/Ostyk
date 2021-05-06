@@ -2,6 +2,10 @@
 
 - Machine Learning Specialist @ DTiQ
 - PyTorch fan
+
+
+[![Ostyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ostyk)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ostyk/Ostyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
