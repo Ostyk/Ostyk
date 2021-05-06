@@ -4,7 +4,10 @@
 - PyTorch fan
 
 
-[![Ostyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ostyk)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ostyk&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ostyk's github stats" />
+</a>
+
 
 <!--
 **Ostyk/Ostyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
