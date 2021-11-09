@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- Machine Learning Specialist @ DTiQ
-- PyTorch fan
+- Computer Vision Research Engineer at Sport Algorithmics and Gaming (sagsport.com)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
