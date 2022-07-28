@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Computer Vision Research Engineer at Sport Algorithmics and Gaming (sagsport.com)
+- Computer Vision Engineer at DAC.digital
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
